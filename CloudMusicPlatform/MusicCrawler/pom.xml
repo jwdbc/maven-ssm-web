@@ -7,7 +7,10 @@
   <groupId>com.xyh.cloudmusic</groupId>
   <artifactId>CloudMusicPlatform</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <modules>
+    <module>../BusinessProcess</module>
+  </modules>
+  <packaging>pom</packaging>
 
   <name>CloudMusicPlatform Maven Webapp</name>
   <!-- FIXME change it to the project's website -->

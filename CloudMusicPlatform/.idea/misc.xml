@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/WebCrawler" />
+    <file type="web" url="file://$PROJECT_DIR$/BusinessProcess" />
+    <file type="web" url="file://$PROJECT_DIR$/MusicCrawler" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
