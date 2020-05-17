@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cb6edff-3f9a-4a74-b1e4-013dca38ec39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BusinessProcess/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebCrawler/WebCrawler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MusicCrawler/MusicCrawler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebCrawler/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MusicCrawler/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +135,7 @@
       <updated>1585382262140</updated>
       <workItem from="1585382270243" duration="3451000" />
       <workItem from="1585454996943" duration="2275000" />
-      <workItem from="1586238175855" duration="4025000" />
+      <workItem from="1586238175855" duration="5333000" />
     </task>
     <servers />
   </component>
